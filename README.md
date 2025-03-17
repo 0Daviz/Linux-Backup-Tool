@@ -23,18 +23,18 @@ LBT is a powerful and user-friendly backup tool designed specifically for Linux 
 
 To use LBT, you need to have **Rust** installed on your system. If you don't have Rust installed, you can install it by following the instructions on [rustup.rs](https://rustup.rs/).
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/0Daviz/Linux-Backup-Tool.git
-   cd LBT
-   ```
-    Build the project:
+Clone the repository:
 ```bash
-    cargo build --release
-   ```
-    Run the tool:
+git clone https://github.com/0Daviz/Linux-Backup-Tool.git
+cd LBT
+```
+Build the project:
 ```bash
-    ./target/release/lbt
+cargo build --release
+```
+Run the tool:
+```bash
+./target/release/lbt
    ```
 
 📝 Backup Metadata
