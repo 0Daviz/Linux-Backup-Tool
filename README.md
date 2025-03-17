@@ -26,7 +26,7 @@ To use LBT, you need to have **Rust** installed on your system. If you don't hav
 Clone the repository:
 ```bash
 git clone https://github.com/0Daviz/Linux-Backup-Tool.git
-cd LBT
+cd Linux-Backup-Tool
 ```
 Build the project:
 ```bash
