@@ -1,5 +1,5 @@
 # 🐧 LBT (Linux Backup Tool) 🛠️
-Perfect tool if you like to distrohop LBT
+Perfect tool if you like to distrohop
 LBT is a powerful and user-friendly backup tool designed specifically for Linux systems. Whether you need to back up selected directories or your entire system, LBT has got you covered! With support for **Full**, **Incremental**, and **Differential** backups, LBT ensures your data is safe and secure. 🚀
 
 ---
